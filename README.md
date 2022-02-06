@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sgervase
-- 👀 I’m interested in sports analysis, statistics, and Rocket League.
+- 👀 I’m interested in sports analysis and statistics.
 - 🌱 I’m currently learning more about Python
 - 📫 How to reach me: sgervase5@gmail.com
 
